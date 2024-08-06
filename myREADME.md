@@ -1,6 +1,6 @@
 # E-commerce Website
 
-This is a fully functional e-commerce website built with React, Firebase, and Tailwind CSS. The website is deployed on Vercel.
+This is a fully functional e-commerce website built with React, using Redux to manage state globally, Firebase, and Tailwind CSS. The website is deployed on Vercel.
 
 ## Live Links
 
